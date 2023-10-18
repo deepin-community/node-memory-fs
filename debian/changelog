@@ -1,3 +1,20 @@
+node-memory-fs (0.5.0+~0.3.3-2) unstable; urgency=medium
+
+  [ Debian Janitor ]
+  * Apply multi-arch hints. + node-memory-fs: Add Multi-Arch: foreign.
+
+ -- Jelmer Vernooĳ <jelmer@debian.org>  Thu, 08 Dec 2022 00:07:59 +0000
+
+node-memory-fs (0.5.0+~0.3.3-1) unstable; urgency=medium
+
+  * Team upload
+  * Fix GitHub tags regex
+  * Update standards version to 4.6.0, no changes needed.
+  * Fix filenamemangle
+  * Embed typescript declarations and repack
+
+ -- Yadd <yadd@debian.org>  Tue, 28 Dec 2021 20:48:54 +0100
+
 node-memory-fs (0.5.0-1) unstable; urgency=medium
 
   * Team upload
